@@ -2,7 +2,7 @@
 
 * Code is forked from https://brunch.co.kr/@snobberys/137.
 
-* How to init
+* How to init and run.
 ```
 virtualenv .venv -p python3
 . .venv/bin/activate
