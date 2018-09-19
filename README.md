@@ -9,3 +9,9 @@ virtualenv .venv -p python3
 pip install -r requirements.txt
 python run.py
 ```
+
+* If you don't want to use virtual environment.
+```
+sudo pip3 install -r requirements.txt
+python3 run.py
+```
